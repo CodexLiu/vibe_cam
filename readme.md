@@ -23,7 +23,7 @@ Why this exists: why pay for a whole CAM stack just to get a number when you can
 Example output
 ```json
 {
-  "price_total_usd": 158,
+  "price_total_usd": 275,
   "overall_reasoning": "The model consists of a single shelf-like structure made from aluminum, with slotted sidewalls and a flat base. The dimensions and features suggest a fabrication process from a single sheet followed by bending and machining operations for the slots and mounting holes. The shape complexity is moderate, requiring multiple setups. The total cost accounts for material, laser/waterjet cutting, CNC machining for the slots and holes, bending operations, and finish.",
   "bodies": [
     {
